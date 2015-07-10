@@ -27,7 +27,7 @@
     "gulp-watch": "^1.0.2"
   },
   "jspm": {
-    "main": "css/rdash.css",
+    "main": "/css/rdash.css",
     "format": "register",
     "directories": {
       "lib":"dist"
