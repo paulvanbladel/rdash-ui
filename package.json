@@ -27,6 +27,6 @@
     "directories": {
       "lib":"dist"
       },
-    "dependencies": {},
+    "dependencies": {}
   }
 }
