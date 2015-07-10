@@ -6,6 +6,9 @@
     "type": "git",
     "url": "https://github.com/rdash/rdash-ui.git"
   },
+  "directories": {
+    "packages": "jspm_packages"
+  },
   "bugs": {
     "url": "https://github.com/rdash/rdash-ui/issues"
   },
