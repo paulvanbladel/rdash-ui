@@ -40,3 +40,5 @@ node_modules
 
 # IDEA
 /.idea
+
+jspm_packages
